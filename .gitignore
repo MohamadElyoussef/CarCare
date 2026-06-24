@@ -1,0 +1,30 @@
+# Gradle build cache and generated outputs
+.gradle/
+build/
+
+# Kotlin compiler cache
+.kotlin/
+
+# Node / Yarn cache (Webpack dependencies)
+.cache/
+node_modules/
+
+# Replit internal
+.local/
+attached_assets/
+
+# Claude agents memory
+.agents/
+
+# Canvas / runtime data
+.canvas/
+
+# Kotlin JS store
+kotlin-js-store/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
